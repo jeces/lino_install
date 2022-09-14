@@ -86,7 +86,9 @@ openssh-server \
 python-setuptools \
 python-dev \
 build-essential \
-python-gudev
+//python-gudev          //gudev 수정
+
+
 
 sudo easy_install pip
 sudo python2.7 -m pip install -U platformio
