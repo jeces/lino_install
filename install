@@ -86,7 +86,7 @@ openssh-server \
 python-setuptools \
 python-dev \
 build-essential \
-//python-gudev          //gudev 수정
+#python-gudev          #gudev 수정
 
 
 
